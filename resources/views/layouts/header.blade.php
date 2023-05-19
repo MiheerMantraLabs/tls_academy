@@ -32,8 +32,8 @@
                 <div class="col-xl-7 col-lg-7 col-md-8 col-12">
                     <div class="top-contact">
                         <ul>
-                            <li><a href="tel:+918798040309"><i class="fa fa-phone-square" aria-hidden="true"></i> +91-8798040309</a></li>
-                            <li><a href="mailto:contact@thelitespeed.com"><i class="fa fa-envelope" aria-hidden="true"></i> contact@thelitespeed.com</a></li>
+                            <li><a href="tel:+918798040309"><i class="fa fa-phone-square" aria-hidden="true"></i> +91-9199800309</a></li>
+                            <li><a href="mailto:contact@thelitespeed.com"><i class="fa fa-envelope" aria-hidden="true"></i> contact@tlsacademy.in</a></li>
                         </ul>
                     </div>
                 </div>

@@ -10,4 +10,7 @@
     #banner-feature{
         padding: 2em 1em;
     }
+    #top-header{
+        display: none;
+    }
 }

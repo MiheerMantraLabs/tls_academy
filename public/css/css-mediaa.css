@@ -1,0 +1,13 @@
+@media(max-width: 768px){
+    .demo-class-content{
+        display: inherit;
+    }
+}
+@media(max-width: 552px){
+    #top-header .social-contact{
+        display: none;
+    }
+    #banner-feature{
+        padding: 2em 1em;
+    }
+}

@@ -4,7 +4,7 @@
         <div class="col-xl-12 col-lg-12 col-md-12 col-12">
             <div class="about-placement">
                 <h2 class="main-heading">Benefits of Joining <span class="sub-heading"> TLS Academy</span></h2>
-                <p class="primary-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia nobis consequatur asperiores exercitationem est. </p>
+                <p class="primary-text">Joining a course that offers lifetime community support comes with numerous benefits. </p>
             </div>
         </div>
         <div class="col-xl-12 col-lg-12 col-md-12 col-12">

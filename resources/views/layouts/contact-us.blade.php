@@ -4,7 +4,7 @@
             <div class="col-xl-12 col-lg-12 col-md-12 col-12">
                 <div class="about-placement">
                     <h2 class="main-heading">For more enquiry - <span class="sub-heading">Conatct Us</span></h2>
-                    <p class="primary-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia nobis consequatur asperiores exercitationem est. </p>
+                    <p class="primary-text">Don't just send a quick text message or email. Take the time to write a thoughtful note or call to catch up. </p>
                 </div>
             </div>
             <div class="col-xl-6 bg-white">

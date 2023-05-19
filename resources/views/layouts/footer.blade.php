@@ -40,6 +40,12 @@
               <a href="#"><span class="fa fa-youtube"></span></a>
               <a href="#"><span class="fa fa-linkedin"></span></a>
             </div> 
+            <h5 class="mt-3">For More Enquiry</h5>  
+            <ul>
+              <li><a href="#"><i class="fa fa-envelope"></i> contact@tlsacademy.in</a></li>
+              <li><a href="#"><i class="fa fa-phone-square"></i> +91-8798040309 / 9199800309</a></li>
+              <li><a href="#"><i class="fa fa-map-marker"></i> Beside Nucleus Mall, lalpur, Ranchi JH</a></li>
+            </ul>
           </div>
         </div>
   

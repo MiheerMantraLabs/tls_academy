@@ -4,7 +4,7 @@
             <div class="col-xl-6 col-lg-6 col-mg-6 col-12">
                 <div class="banner-box">
                     <h4 class="sub-heading">Welcome</h4>
-                    <h1 class="main-heading">To TLS Mithun</h1>
+                    <h1 class="main-heading">To TLS Miheer</h1>
                     <p class="primary-text">Welcome to TLS Academy, your gateway to mastering the world of digital marketing and website development! Whether you're a Student, business owner, aspiring marketer, or a web enthusiast, 
                         we have the perfect courses to empower you with the skills and knowledge needed to thrive in today's digital landscape..</p>
                     <button type="button" id="button-design1" class="tls-button">Enroll Now</button>

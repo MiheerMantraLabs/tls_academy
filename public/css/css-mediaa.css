@@ -10,4 +10,19 @@
     #banner-feature{
         padding: 2em 1em;
     }
+    #top-header{
+        display: none;
+    }
+    .tls-button{
+        height: 30px;
+        font-size: 0.7rem;
+    }
+    #popular-courses .row>* {
+        flex-shrink: 0;
+        width: 100%;
+        max-width: 100%;
+        padding-right: calc(var(--bs-gutter-x) * .0);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        margin-top: var(--bs-gutter-y);
+    }
 }

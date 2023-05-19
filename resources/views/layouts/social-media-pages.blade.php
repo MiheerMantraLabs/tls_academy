@@ -4,7 +4,7 @@
             <div class="col-xl-12 col-lg-12 col-md-12 col-12">
                 <div class="about-placement">
                     <h2 class="main-heading">Keep in Touch - <span class="sub-heading">Follow Us</span></h2>
-                    <p class="primary-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia nobis consequatur asperiores exercitationem est. </p>
+                    <p class="primary-text">Don't be afraid to ask for help. If you're struggling to keep in touch with someone, reach out to them and let them know. They may be feeling the same way. </p>
                 </div>
             </div>
 

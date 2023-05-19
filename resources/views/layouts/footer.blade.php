@@ -8,7 +8,7 @@
   
           </div>
         </div>
-        <div class="col-xl-3 col-lg-3 col-md-4 col-12">
+        <div class="col-xl-2 col-lg-2 col-md-4 col-12">
           <div class="footer-link">
             <h5>Quick Links</h5>  
             <ul>
@@ -30,7 +30,7 @@
             </ul>
           </div>
         </div>
-        <div class="col-xl-3 col-lg-3 col-md-4 col-12">
+        <div class="col-xl-4 col-lg-4 col-md-4 col-12">
           <div class="footer-link">
             <h5>Follow Us</h5> 
             <div class="social-media">
@@ -40,13 +40,19 @@
               <a href="#"><span class="fa fa-youtube"></span></a>
               <a href="#"><span class="fa fa-linkedin"></span></a>
             </div> 
+            <h5 class="mt-3">For More Enquiry</h5>  
+            <ul>
+              <li><a href="#"><i class="fa fa-envelope"></i> contact@tlsacademy.in</a></li>
+              <li><a href="#"><i class="fa fa-phone-square"></i> +91-9199800309 / 0651-3175404</a></li>
+              <li><a href="#"><i class="fa fa-map-marker"></i> Beside Nucleus Mall, lalpur, Ranchi JH</a></li>
+            </ul>
           </div>
         </div>
   
         <div class="col-xl-12 col-lg-12 col-md-12 col-12">
           <div class="footer-copyright">
             <p class="copyright">
-                Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Designed <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://thelitespeed.in" target="_blank">The Lite Speed</a>
+                Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | A unit of <i class="fa fa-heart-o" aria-hidden="true"></i> <a href="https://thelitespeed.in" target="_blank">The Lite Speed</a>
             </p>
           </div>
         </div>

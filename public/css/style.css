@@ -503,6 +503,7 @@ a{
 	position: relative;
 	padding: 2em 0;
 }
+
 .popular-course-box{
 	position: relative;
 	border: 1px solid var(--border-color);
@@ -759,11 +760,37 @@ a{
 	position: relative;
 	width: 100%;
 	height: 100%;
+	padding: 1.2rem;
 }
 .contact-location iframe{
 	width: 100%;
 	height: 100%;
 }
+.contact-details{
+	position: relative;
+	width: 100%;
+	height: 80px;
+	line-height: 80px;
+	padding:  0 1rem;
+	background-color: var(--white);
+	margin-bottom: 1.2rem;
+	box-shadow: 3px 3px 5px 0px rgba(150,148,148,0.3);
+	-webkit-box-shadow: 3px 3px 5px 0px rgba(150,148,148,0.3);
+	-moz-box-shadow: 3px 3px 5px 0px rgba(150,148,148,0.3);
+}
+.contact-details .contact-icon{
+	font-size: 40px;
+	padding-right: 1.2rem;
+	border-right: 1px solid var(--shade_black);
+	color: var(--shade_black);
+}
+.contact-details .contact-text{
+	font-size: 1.2rem;
+	padding-left: 1rem;
+	color: var(--shade_black);
+}
+
+
 /* Footer */
 footer{
 	position: relative;
@@ -811,3 +838,4 @@ footer{
 	padding: 0;
 	text-align: center;
 }
+

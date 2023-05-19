@@ -13,4 +13,8 @@
     #top-header{
         display: none;
     }
+    .tls-button{
+        height: 30px;
+        font-size: 0.7rem;
+    }
 }

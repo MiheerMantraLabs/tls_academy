@@ -503,14 +503,7 @@ a{
 	position: relative;
 	padding: 2em 0;
 }
-#popular-courses .row>* {
-    flex-shrink: 0;
-    width: 100%;
-    max-width: 100%;
-    padding-right: calc(var(--bs-gutter-x) * .0);
-    padding-left: calc(var(--bs-gutter-x) * .5);
-    margin-top: var(--bs-gutter-y);
-}
+
 .popular-course-box{
 	position: relative;
 	border: 1px solid var(--border-color);

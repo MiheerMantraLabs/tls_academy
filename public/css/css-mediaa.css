@@ -2,6 +2,9 @@
     .demo-class-content{
         display: inherit;
     }
+    .breadcrumbs-content #breadcrumbs-content h2{
+        font-size: 2.5rem;
+    }
 }
 @media(max-width: 552px){
     #top-header .social-contact{
@@ -34,4 +37,10 @@
     /* #contact-no2{
         line-break:loose;
     } */
+    #breadcrumbs,.breadcrumbs-content img{
+        height: 220px;
+    }
+    .breadcrumbs-content #breadcrumbs-content h2{
+        font-size: 2rem;
+    }
 }

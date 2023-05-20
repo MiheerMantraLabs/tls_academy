@@ -851,4 +851,41 @@ footer{
 	padding: 0;
 	text-align: center;
 }
-
+/* Breadcrumbs design */
+#breadcrumbs{
+	position: relative;
+	height: 350px;
+}
+.breadcrumbs-content{
+	position: relative;
+}
+.breadcrumbs-content img{
+	position: relative;
+	top: 0;
+	left: 0;
+	height: 350px;
+	width: 100%;
+	object-fit: cover;
+}
+.breadcrumbs-content #breadcrumbs-bg{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background-image: linear-gradient(to right, rgba(89, 193, 248, 0.6 ),rgba(89, 193, 248, 0.6 ));
+	z-index: 2;
+}
+.breadcrumbs-content #breadcrumbs-content{
+	position: absolute;
+	top: 50%;
+	left: 10%;
+	transform: translateY(-50%);
+	z-index: 3;
+}
+.breadcrumbs-content #breadcrumbs-content h2{
+	font-size: 3rem;
+}
+.breadcrumbs-content #breadcrumbs-content h5 a{
+	color: var(--black);
+}

@@ -14,3 +14,4 @@ use App\Http\Controllers\TlsController;
 |
 */
 Route::get('/',[TlsController::class,'index']);
+Route::get('about-us',[TlsController::class,'about']);

@@ -40,10 +40,10 @@
                 <div class="col-xl-3 col-lg-3 col-md-4 col-12">
                     <div class="social-contact">
                         <ul>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                            <li><a href="{{ url('https://www.facebook.com/diitranchi/') }}" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="{{ url('https://www.instagram.com/tlsacademy_/') }}" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="{{ url('/') }}"><i class="fa fa-twitter" target="_blank"></i></a></li>
+                            <li><a href="{{ url('/') }}"><i class="fa fa-youtube" target="_blank"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -71,10 +71,10 @@
                 </div>
                 <ul class="menu">
                    <li class="menu-item">
-                      <a href="./">Home</a>
+                      <a href="{{ url('/') }}">Home</a>
                    </li>
                    <li class="menu-item">
-                      <a href="#">About Us</a>
+                      <a href="{{ url('about-us') }}">About Us</a>
                    </li>
                    <li class="menu-item menu-item-has-children">
                    <a href="#" data-toggle="sub-menu">Courses <i class="plus"></i></a>

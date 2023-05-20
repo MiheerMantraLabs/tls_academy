@@ -37,7 +37,7 @@
                     </div>
                     <div class="contact-details d-flex justify-content-start">
                         <div class="contact-icon"> <i class="fa fa-phone-square"></i> </div>
-                        <div class="contact-text"><p>+91-9199800309 / 0651-3175404</p></div>
+                        <div class="contact-text"><p>+91-9199800309 <span id="contact-no2">/ 0651-3175404</span></p></div>
                     </div>
                     <div class="contact-details d-flex justify-content-start">
                         <div class="contact-icon"> <i class="fa fa-envelope"></i> </div>

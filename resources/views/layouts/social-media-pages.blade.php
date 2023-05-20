@@ -20,7 +20,7 @@
                         get: 'user',
                         target: "instafeed-container",
                         resolution: 'low_resolution',
-                        accessToken: 'IGQVJYWkdvUHlTdGViMTNBVmRia2E1V1lDWVJnemVReGYyVnJiUDZAZALTJxSkRXQlhXZAmNGTXBVcWRRdEl3bXNzbWNNZAkh2ZAHpabnF6cGs0Mkh5V3BEOWVqRl8xbGFVN0lLYVA5Q2licy1KRG50cm1OYwZDZD'
+                        accessToken: 'IGQVJWNlBGTnN5YjNiM3FqeExkV3RCOEw3SnN4a0xQbmNZARE1pT3A1VjdialFMRTEwUTk4N2NLZAm10VkFRQTh6X0FCQjZAOSzVjb1Q0cHltbmlPWDJYT05PTXhXRllTSDBXVTNlaXM4bFh5UExBVW41ZAwZDZD'
                     });
                     userFeed.run();
                     </script>

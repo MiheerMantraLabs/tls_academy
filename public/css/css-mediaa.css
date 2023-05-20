@@ -25,4 +25,10 @@
         padding-left: calc(var(--bs-gutter-x) * .5);
         margin-top: var(--bs-gutter-y);
     }
+    .contact-details .contact-icon{
+        font-size: 30px;
+    }
+    .contact-details .contact-text{
+        font-size: 12px;
+    }
 }

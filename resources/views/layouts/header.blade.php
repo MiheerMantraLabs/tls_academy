@@ -57,7 +57,7 @@
         <div class="header-container">
            <div class="header-main">
               <div class="logo">
-                 <a href="index.php"><img src="{{asset('images/logo.png')}}" /></a>
+                 <a href="{{ url('/') }}"><img src="{{asset('images/logo.png')}}" /></a>
               </div>
               <div class="open-nav-menu">
                  <span></span>
@@ -79,7 +79,7 @@
                    <li class="menu-item menu-item-has-children">
                    <a href="#" data-toggle="sub-menu">Courses <i class="plus"></i></a>
                    <ul class="sub-menu">
-                     <li class="menu-item"><a href="#">Digital Marketing</a></li>
+                     <li class="menu-item"><a href="{{ url('digital-marketing') }}">Digital Marketing</a></li>
                      <li class="menu-item"><a href="#">Website Development</a></li>
                      <li class="menu-item"><a href="#">App Development</a></li>
                    </ul>

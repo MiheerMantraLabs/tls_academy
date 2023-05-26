@@ -23,7 +23,7 @@
                         </div>
                         <div class="course-price d-flex justify-content-between">
                             <p class="price-data main-heading"><i class="fa fa-inr"></i> 14,999 /-</p>
-                            <p class="enroll-now"><i class="fa fa-graduation-cap"></i><a href="#">Enroll Now</a></p>
+                            <p class="enroll-now"><i class="fa fa-graduation-cap"></i><a href="{{ url('digital-marketing') }}">Enroll Now</a></p>
                         </div>
                     </div>
                 </a>

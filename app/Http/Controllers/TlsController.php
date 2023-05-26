@@ -12,4 +12,7 @@ class TlsController extends Controller
     public function about(){
         return view('about-us');
     }
+    public function digitalMarketing(){
+        return view('digital-marketing');
+    }
 }

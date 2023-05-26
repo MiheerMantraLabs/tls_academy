@@ -43,4 +43,11 @@
     .breadcrumbs-content #breadcrumbs-content h2{
         font-size: 2rem;
     }
+    .course-details h2#course-type{
+        font-size: 32px;
+    }
+    .course-details p{
+        font-size: 0.8rem;
+    }
+    
 }

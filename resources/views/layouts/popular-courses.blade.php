@@ -9,7 +9,7 @@
         </div>
         <div class="row">
             <div class="col-xl-4 col-lg-4 col-md-4 col-12">
-                <a href="#">
+                <a href="{{ url('digital-marketing') }}">
                     <div class="popular-course-box">
                         <span id="course-border1"></span>
                         <span id="course-border2"></span>

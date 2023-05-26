@@ -889,3 +889,25 @@ footer{
 .breadcrumbs-content #breadcrumbs-content h5 a{
 	color: var(--black);
 }
+#course-details-area{
+	margin: 40px 0;
+}
+.course-details h2#course-type{
+	font-size: 40px;
+}
+.course-details p{
+	text-align: justify;
+}
+.course-image img{
+	width: 100%;
+	height: auto;
+}
+.course-image .courses-offer-list button#enquiry-btn{
+	width: 220px;
+	height: 40px;
+	border: none;
+	outline: none;
+	background-color: var(--primary);
+	color: var(--black);
+	border-radius: 20px;
+}

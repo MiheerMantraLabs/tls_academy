@@ -16,3 +16,9 @@ use App\Http\Controllers\TlsController;
 Route::get('/',[TlsController::class,'index']);
 Route::get('about-us',[TlsController::class,'about']);
 Route::get('digital-marketing',[TlsController::class,'digitalMarketing']);
+Route::get('web-development',[TlsController::class,'webDevelopment']);
+Route::get('app-development',[TlsController::class,'appDevelopment']);
+Route::get('why-choose-us',[TlsController::class,'chooseUs']);
+Route::get('contact-us',[TlsController::class,'contactUs']);
+Route::get('course-enquiry',[TlsController::class,'courseEnquiry']);
+

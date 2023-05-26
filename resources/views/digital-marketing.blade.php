@@ -30,7 +30,7 @@
                             <li>Graphics Designing (Canva)</li>
                             <li>And many more...</li>
                         </ul>
-                        <a href="enquiry-form"><button type="button" id="enquiry-btn">Apply Now</button></a>
+                        <a href="{{ url('course-enquiry') }}"><button type="button" id="enquiry-btn">Apply Now</button></a>
                     </div>
                 </div>
             </div>

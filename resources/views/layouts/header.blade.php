@@ -80,8 +80,8 @@
                    <a href="#" data-toggle="sub-menu">Courses <i class="plus"></i></a>
                    <ul class="sub-menu">
                      <li class="menu-item"><a href="{{ url('digital-marketing') }}">Digital Marketing</a></li>
-                     <li class="menu-item"><a href="#">Website Development</a></li>
-                     <li class="menu-item"><a href="#">App Development</a></li>
+                     <li class="menu-item"><a href="{{ url('web-development') }}">Website Development</a></li>
+                     <li class="menu-item"><a href="{{ url('app-development') }}">App Development</a></li>
                    </ul>
                    </li>
                    {{-- <li class="menu-item">
@@ -91,10 +91,10 @@
                       <a href="#">Certification</a>
                    </li> --}}
                    <li class="menu-item">
-                      <a href="#">Why Us</a>
+                      <a href="{{ url('why-choose-us') }}">Why Us</a>
                    </li>
                    <li class="menu-item">
-                      <a href="#">Contact</a>
+                      <a href="{{ url('contact-us') }}">Contact</a>
                    </li>
                 </ul>
               </nav>

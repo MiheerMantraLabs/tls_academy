@@ -23,13 +23,13 @@
                         </div>
                         <div class="course-price d-flex justify-content-between">
                             <p class="price-data main-heading"><i class="fa fa-inr"></i> 14,999 /-</p>
-                            <p class="enroll-now"><i class="fa fa-graduation-cap"></i><a href="{{ url('digital-marketing') }}">Enroll Now</a></p>
+                            <p class="enroll-now"><i class="fa fa-graduation-cap"></i><a href="{{ url('course-enquiry') }}">Enroll Now</a></p>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-12">
-                <a href="#">
+                <a href="{{ url('web-development') }}">
                     <div class="popular-course-box">
                         <span id="course-border1"></span>
                         <span id="course-border2"></span>
@@ -43,13 +43,13 @@
                         </div>
                         <div class="course-price d-flex justify-content-between">
                             <p class="price-data main-heading"><i class="fa fa-inr"></i> 14,999 /-</p>
-                            <p class="enroll-now"><i class="fa fa-graduation-cap"></i><a href="#">Enroll Now</a></p>
+                            <p class="enroll-now"><i class="fa fa-graduation-cap"></i><a href="{{ url('course-enquiry') }}">Enroll Now</a></p>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-12">
-                <a href="#">
+                <a href="{{ url('app-development') }}">
                     <div class="popular-course-box">
                         <span id="course-border1"></span>
                         <span id="course-border2"></span>
@@ -63,7 +63,7 @@
                         </div>
                         <div class="course-price d-flex justify-content-between">
                             <p class="price-data main-heading"><i class="fa fa-inr"></i> 14,999 /-</p>
-                            <p class="enroll-now"><i class="fa fa-graduation-cap"></i><a href="#">Enroll Now</a></p>
+                            <p class="enroll-now"><i class="fa fa-graduation-cap"></i><a href="{{ url('course-enquiry') }}">Enroll Now</a></p>
                         </div>
                     </div>
                 </a>

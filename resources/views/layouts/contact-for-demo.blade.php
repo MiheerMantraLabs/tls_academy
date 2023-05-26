@@ -9,7 +9,7 @@
                     </p>
                 </div>
                 <div class="demo-class-content-box">
-                    <button type="button" id="apply-course-btn"><a href="#">View Course & Apply</a></button>
+                    <button type="button" id="apply-course-btn"><a href="{{ url('course-enquiry') }}">View Course & Apply</a></button>
                 </div>
             </div>
         </div>

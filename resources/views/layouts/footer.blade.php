@@ -8,7 +8,7 @@
   
           </div>
         </div>
-        <div class="col-xl-2 col-lg-2 col-md-4 col-12">
+        <div class="col-xl-2 col-lg-2 col-md-4 col-6">
           <div class="footer-link">
             <h5>Quick Links</h5>  
             <ul>
@@ -20,7 +20,7 @@
             </ul>
           </div>
         </div>
-        <div class="col-xl-2 col-lg-2 col-md-4 col-12">
+        <div class="col-xl-2 col-lg-2 col-md-4 col-6">
           <div class="footer-link">
             <h5>Privacy Policy</h5>  
             <ul>
@@ -34,11 +34,11 @@
           <div class="footer-link">
             <h5>Follow Us</h5> 
             <div class="social-media">
-              <a href="#"><span class="fa fa-facebook-f"></span></a>
-              <a href="#"><span class="fa fa-instagram"></span></a>
+              <a href="{{ url('https://www.facebook.com/diitranchi/') }}" target="_blank"><span class="fa fa-facebook-f"></span></a>
+              <a href="{{ url('https://www.instagram.com/tlsacademy_/') }}" target="_blank"><span class="fa fa-instagram"></span></a>
               <a href="#"><span class="fa fa-twitter"></span></a>
-              <a href="#"><span class="fa fa-youtube"></span></a>
-              <a href="#"><span class="fa fa-linkedin"></span></a>
+              <a href="{{ url('https://www.youtube.com/@thelitespeed') }}" target="_blank"><span class="fa fa-youtube"></span></a>
+              <a href="#" target="_blank"><span class="fa fa-linkedin"></span></a>
             </div> 
             <h5 class="mt-3">For More Enquiry</h5>  
             <ul>

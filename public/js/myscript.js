@@ -106,6 +106,7 @@
       }
     });
 
+    $('#promotion-popup').modal('show');
 
   });
   

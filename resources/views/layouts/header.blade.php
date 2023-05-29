@@ -23,7 +23,7 @@
   <link rel="stylesheet" href="{{asset('css/style.css')}}">
   <link rel="stylesheet" href="{{asset('css/css-mediaa.css')}}">
 </head>
-<body>
+<body>   
     <section id="top-header">
          <div class="container">
             <div class="row">

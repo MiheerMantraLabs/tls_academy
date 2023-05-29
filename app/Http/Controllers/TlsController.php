@@ -29,5 +29,6 @@ class TlsController extends Controller
     }
     public function courseEnquiry(){
         return view('course-enquiry');
+        
     }
 }
